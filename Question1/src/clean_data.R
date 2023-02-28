@@ -14,3 +14,5 @@ clean_people_data
 
 ### Writing clean data into a new csv file and not messing with the original file
 write.csv(clean_people_data,"~/Desktop/SANGITA/MY ASSIGNMENTS/PDS/Ass1/question1/clean_data/clean_people_data.csv")
+
+
