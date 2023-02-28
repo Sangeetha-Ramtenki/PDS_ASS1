@@ -1,3 +1,4 @@
+StudentsPerformance <- read.csv('~/Desktop/SANGITA/MY ASSIGNMENTS/PDS/Ass1/question2/clean_data/StudentsPerformance.csv')
 table(StudentsPerformance$gender)
 n <- nrow(StudentsPerformance)
 percent_gender <- table(StudentsPerformance$gender)/n * 100
