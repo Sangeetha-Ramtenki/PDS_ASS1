@@ -3,4 +3,7 @@
 
 **Analysis:**
 
+* From the above barplot, we can tell that there are more number of students who belong to Group D
+* There are less number of students who belong to Group A
+* And then Group B, Group C and Group E in the same order
 
